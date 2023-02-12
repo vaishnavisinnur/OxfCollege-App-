@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "936374896299",
+    "project_id": "oxford-college-7374f",
+    "storage_bucket": "oxford-college-7374f.appspot.com"
+  },
+  "client": [
+
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:936374896299:android:30331f8f0e1df8a75a99ee",
+        "android_client_info": {
+          "package_name": "com.vaishu.oxfordcollege"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "936374896299-lsbvb2o4lirvbr4npjudc1oie7ebb152.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBi3GwtbYyT5uk6aqHnxuGEEdT7YddK7qM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "936374896299-lsbvb2o4lirvbr4npjudc1oie7ebb152.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
